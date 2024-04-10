@@ -1,0 +1,6 @@
+.CustomButton{
+    -fx-background-color:  #27436B;
+}
+.CustomButton:hover{
+    -fx-background-color:#1d3557;
+}

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<VBox alignment="CENTER" fillWidth="false" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="820.0" prefWidth="1080.0" style="-fx-background-color: #1d3557;" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.mysystem.LogInController">
+   <children>
+      <Text fill="WHITE" strokeType="OUTSIDE" strokeWidth="0.0" text="Noly's Dashboard" textAlignment="CENTER" wrappingWidth="258.728515625">
+         <font>
+            <Font name="System Bold" size="26.0" />
+         </font>
+      </Text>
+      <TextField fx:id="textUsername" promptText="Username" style="-fx-background-color: #27436B; -fx-text-fill: white;" styleClass="TextField" stylesheets="@textField.css">
+         <font>
+            <Font size="14.0" />
+         </font>
+         <VBox.margin>
+            <Insets bottom="10.0" top="10.0" />
+         </VBox.margin>
+      </TextField>
+      <TextField fx:id="textPassword" layoutX="464.0" layoutY="405.0" promptText="Password" style="-fx-background-color: #27436B; -fx-text-fill: white;" styleClass="TextField" stylesheets="@textField.css">
+         <font>
+            <Font size="14.0" />
+         </font>
+         <VBox.margin>
+            <Insets bottom="10.0" top="10.0" />
+         </VBox.margin>
+      </TextField>
+      <Text fx:id="logInError" fill="RED" strokeType="OUTSIDE" strokeWidth="0.0">
+         <font>
+            <Font name="System Bold" size="15.0" />
+         </font>
+      </Text>
+      <Button fx:id="buttonInsert1" mnemonicParsing="false" onAction="#checkAccount" styleClass="CustomButton" stylesheets="@onHover.css" text="Log in" textFill="WHITE">
+         <font>
+            <Font name="System Bold" size="14.0" />
+         </font>
+         <cursor>
+            <Cursor fx:constant="OPEN_HAND" />
+         </cursor>
+         <VBox.margin>
+            <Insets top="10.0" />
+         </VBox.margin>
+      </Button>
+   </children>
+</VBox>

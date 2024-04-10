@@ -1,0 +1,17 @@
+Dimitri Brook,dbrook0@adobe.com,+385 134 200 2680,6391 Lakeland Junction,paid
+Darsie Harry,dharry1@statcounter.com,+970 650 735 9509,3 Claremont Junction,not paid
+Cash Savile,csavile2@yahoo.com,+86 641 484 0800,16547 Golf View Road,paid
+Marcie Nand,mnand3@telegraph.co.uk,+60 328 603 8289,42 Memorial Pass,paid
+Garry Gwyneth,ggwyneth4@delicious.com,+54 922 851 6502,91 Scofield Point,paid
+Anne Ludman,aludman5@smugmug.com,+420 470 834 3345,579 Beilfuss Terrace,paid
+Elwood Van Hesteren,evan6@dropbox.com,+355 327 295 1456,83732 Grayhawk Lane,paid
+Brandea Iglesia,biglesia7@indiegogo.com,+352 841 192 3150,90 Sutherland Junction,paid
+Christabella Buret,cburet8@exblog.jp,+850 749 559 7764,8 Dexter Alley,paid
+Kalvin Round,kround9@symantec.com,+54 561 489 9559,990 Mockingbird Crossing,paid
+Daniele Hagan,dhagana@deliciousdays.com,+48 214 516 6942,7 Kenwood Trail,not paid
+Catriona Forseith,cforseithb@nifty.com,+62 334 162 0919,99 Buell Park,not paid
+Geralda Caillou,gcaillouc@nps.gov,+86 979 701 8453,004 Anhalt Avenue,paid
+Eachelle Kruschev,ekruschevd@google.fr,+48 584 378 0800,966 Harbort Plaza,not paid
+Mitchel Dewis,mdewise@bandcamp.com,+351 853 533 8586,7823 Truax Terrace,paid
+sd,sd,sd,sd,paid
+sd,sd,sd,sd,unpaid
